@@ -1,1 +1,2 @@
-cage 1
+zoo location: cage 1
+safari location: sector river

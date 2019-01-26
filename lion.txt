@@ -1,1 +1,2 @@
-cage 4
+zoo location: cage 4
+safari location: sector savannah
